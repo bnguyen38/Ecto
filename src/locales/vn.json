@@ -1,10 +1,10 @@
 {
     "errorDialog": {
-        "errorDescription": "L?i",
-        "cancelButton": "H?y b?"
+        "errorDescription": "Lỗi",
+        "cancelButton": "Hủy bỏ"
     },
     "transactionComponent": {
-        "setName": "Set name:",
+        "setName": "Đặt tên:",
         "minted": "Minted",
         "sent": "Sent",
         "sentTo": "Sent to",
